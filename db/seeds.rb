@@ -7,3 +7,9 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 User.create( name:'test', email: 'test@mail.com' )
+
+#HW 6.3
+Dog.create(name: 'Nala', motto: 'Born to be wild')
+Dog.create(name: 'Alex', motto: 'Calm as can be')
+Dog.create(name: 'Leroy', motto: 'Life of the pawty')
+Dog.create(name: 'Belle', motto: 'Miss Independent')
