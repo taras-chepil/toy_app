@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :dogs
   resources :microposts
   resources :users
   root 'users#index'
